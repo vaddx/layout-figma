@@ -1,0 +1,28 @@
+/*адаптив... надеюсь будет не больно*/
+
+/* about us */
+
+
+@media (max-width: 400px) {
+
+    .part1 {
+        display: block;
+    }
+
+    .furniture3 {
+        display: block;
+        width: 100%;
+
+    }
+
+    .furniture2 {
+        display: none
+    }
+
+    .furniture1 {
+        display: none
+    }
+}
+
+
+/* about us */
